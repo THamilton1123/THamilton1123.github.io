@@ -15,3 +15,8 @@
 <ul>
   <li><a href="https://thamilton1123.github.io/react-components-spring26/">Fun with Carousel Timing</a></li>
 </ul>
+
+<p>Advanced JavaScript Project</p>
+<ul>
+  <li><a href="https://thamilton1123.github.io/advjs-project2-spring26/">Find U.S. Weather by Zip Code</a></li>
+</ul>
